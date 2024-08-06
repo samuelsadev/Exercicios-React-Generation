@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.7"
+  },
+  "name": "props-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuelsadev/Exercicios-React-Generation.git",
+  "author": "samuelsadev <samuelsa.dev@gmail.com>",
+  "license": "MIT"
+}
